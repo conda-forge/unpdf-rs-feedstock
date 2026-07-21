@@ -1,5 +1,5 @@
 context:
-  version: "0.7.1"
+  version: "0.8.0"
 
 package:
   name: unpdf-rs
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/iyulab/unpdf/archive/refs/tags/v${{ version }}.tar.gz
-  sha256: c6d36e5e15266cb2a091b8ab2c7d87a1229d816c3302fcc8897aaf58f008f78e
+  sha256: 9fceee79975cee03ab39f7b967535be079091dfb47372831c2d5684ada03f6b1
 
 build:
   number: 0
